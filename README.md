@@ -142,7 +142,7 @@ Mon Nov  3 21:01:23 2025
 ---
 
 ## 👤 Author
-**Debashish Rout**  
+**AMLAN ROUT**  
 Developed under **Wipro TalentNext Capstone Project 2025**  
 📧 amlanrout54@gmail.com 
 🔗 [GitHub Profile](https://github.com/Amlan8136)
