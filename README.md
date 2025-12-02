@@ -155,8 +155,7 @@ All rights reserved © 2025.
 
 ---
 
-## 🧠 Optional – Add GitHub Badges
-You can add these just below the title for a professional look:
+## 🧠 GitHub Badges
 ```markdown
 ![C++](https://img.shields.io/badge/Language-C++-blue)
 ![OpenSSL](https://img.shields.io/badge/Security-TLS%201.3-green)
